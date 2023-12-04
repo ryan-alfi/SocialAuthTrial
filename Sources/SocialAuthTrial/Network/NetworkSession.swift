@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 08/11/23.
 //
 
+import Foundation
+
 protocol NetworkSession {
     func loadData(
         from request: URLRequest,

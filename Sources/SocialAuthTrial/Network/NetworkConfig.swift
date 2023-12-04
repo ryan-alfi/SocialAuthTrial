@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 08/11/23.
 //
 
+import Foundation
+
 protocol NetworkConfigurable {
     var baseURL: URL { get }
     var headers: [String: String] { get }

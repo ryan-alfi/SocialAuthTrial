@@ -122,7 +122,7 @@ final class RegisterViewController: BaseViewController {
                 } else if let value = value as? LoginResponseModel {
                     self?.formView.resetUI()
                     let provider: VPAuthProvider = self?.formView.formType == .email ? .email : .phone
-                    VisionPlusBSS.shared.authDelegate?.didAuthenticationSuccess(token: value.code, provider: provider)
+                    SocialAuthTrial.shared.authDelegate?.didAuthenticationSuccess(token: value.code, provider: provider)
                 }
             case .none:
                 break
@@ -177,7 +177,7 @@ final class RegisterViewController: BaseViewController {
     }
     
     @objc private func tapLogin() {
-        navigationController?.replace(to: LoginViewController.build(delegate: VisionPlusBSS.shared.authDelegate))
+        navigationController?.replace(to: LoginViewController.build(delegate: SocialAuthTrial.shared.authDelegate))
     }
     
     @objc private func tapRegister() {
@@ -220,17 +220,17 @@ extension RegisterViewController {
 extension RegisterViewController: SocialLoginDelegate {
     
     func didSelectAppleId() {
-        AppleProvider.shared.delegate = VisionPlusBSS.shared.authDelegate
+        AppleProvider.shared.delegate = SocialAuthTrial.shared.authDelegate
         AppleProvider.shared.signIn(controller: self)
     }
     
     func didSelectGoogle() {
-        GoogleProvider.shared.delegate = VisionPlusBSS.shared.authDelegate
+        GoogleProvider.shared.delegate = SocialAuthTrial.shared.authDelegate
         GoogleProvider.shared.signIn(controller: self)
     }
     
     func didSelectFacebook() {
-        FacebookProvider.shared.delegate = VisionPlusBSS.shared.authDelegate
+        FacebookProvider.shared.delegate = SocialAuthTrial.shared.authDelegate
         FacebookProvider.shared.signIn(controller: self)
     }
 }
@@ -246,13 +246,13 @@ extension RegisterViewController: RegisterFormDelegate {
     }
     
     func moveToPhoneLogin(phone: String) {
-        let vc = LoginViewController.build(delegate: VisionPlusBSS.shared.authDelegate)
+        let vc = LoginViewController.build(delegate: SocialAuthTrial.shared.authDelegate)
         navigationController?.replace(to: vc)
         vc.updatePhone(phone: phone)
     }
     
     func moveToEmailLogin(email: String) {
-        let vc = LoginViewController.build(delegate: VisionPlusBSS.shared.authDelegate)
+        let vc = LoginViewController.build(delegate: SocialAuthTrial.shared.authDelegate)
         navigationController?.replace(to: vc)
         vc.moveToEmailTab()
         vc.updateEmail(email: email)

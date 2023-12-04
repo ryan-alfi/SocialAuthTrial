@@ -111,7 +111,7 @@ final class VerifyLinkViewController: BaseViewController {
             navigationController?.popToViewController(registerVC, animated: false)
             (registerVC as? RegisterViewController)?.moveToEmailLogin(email: "")
         } else {
-            let loginVC = LoginViewController.build(delegate: VisionPlusBSS.shared.authDelegate)
+            let loginVC = LoginViewController.build(delegate: SocialAuthTrial.shared.authDelegate)
             navigationController?.replace(to: loginVC)
             loginVC.moveToEmailTab()
         }

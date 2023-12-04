@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 17/11/23.
 //
 
+import Foundation
+
 enum DataTransferError: Error {
     case parsingJSON(statusCode: Int)
     case errorModel(ErrorModel)

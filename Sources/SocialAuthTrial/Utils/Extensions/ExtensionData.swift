@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 17/11/23.
 //
 
+import Foundation
+
 extension Data {
     
     func toObject<T: Decodable>(_ object: T.Type) -> T? {

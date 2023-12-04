@@ -172,7 +172,7 @@ extension BaseViewController {
                 image: .assets(image: .illServerError)),
         onTapSecondaryButton: {
             let error = NSError(domain: "Vision Plus", code: 500, userInfo: [NSLocalizedDescriptionKey: "Internal server error"])
-            VisionPlusBSS.shared.authDelegate?.didAuthenticationFailure(error: error)
+            SocialAuthTrial.shared.authDelegate?.didAuthenticationFailure(error: error)
         })
     }
     

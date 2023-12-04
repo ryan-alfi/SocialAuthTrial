@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 08/11/23.
 //
 
+import Foundation
+
 extension Error {
     
     func getErrorMessage() -> String {

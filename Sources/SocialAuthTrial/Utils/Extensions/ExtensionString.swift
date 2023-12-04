@@ -5,6 +5,8 @@
 //  Created by Muhammad Affan on 10/11/23.
 //
 
+import Foundation
+
 extension String {
     
     func toJsonData() -> Data {

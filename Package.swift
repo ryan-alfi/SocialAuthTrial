@@ -12,7 +12,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SocialAuthTrial",
-            targets: ["SocialAuthTrial"]),
+            targets: ["SocialAuthFw"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -26,13 +26,13 @@ let package = Package(
         .binaryTarget(
             name: "SocialAuthFw",
             path: "SocialAuthFw.xcframework"
-        ),
-        .target(
-            name: "SocialAuthTrial",
-            dependencies: [
-                .product(name: "FacebookLogin", package: "facebook-ios-sdk"),
-                .product(name: "GoogleSignIn", package: "GoogleSignIn-iOS"),
-                "SocialAuthFw"
-            ], path: "")
+        )
+//        .target(
+//            name: "SocialAuth",
+//            dependencies: [
+//                .product(name: "FacebookLogin", package: "facebook-ios-sdk"),
+//                .product(name: "GoogleSignIn", package: "GoogleSignIn-iOS"),
+//                .target(name: "SocialAuthFw")
+//            ], path: "")
     ]
 )

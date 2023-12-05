@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4MeQCDp0bigMGNzp7iQl3vcRnCg=
+		q6JYDQA1jk/1nshHYVtDNdgO54M=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		s1nLzl8Sy9Y5M8adYswLCVeoDqo=
+		O+dWTIeRP2u1u3EW5GENtkKQHYU=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		G9UhkX3Fte49gtA8JyTgvL9kc7A=
+		twTqHyXlq7nLSpDVwYbwgQEH7H8=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xzm1+WK+2rpHquCjmG6JOa1g+hs=
+		Y2qT4eEm+poGROEIsVMSeNn7CVs=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		G9UhkX3Fte49gtA8JyTgvL9kc7A=
+		twTqHyXlq7nLSpDVwYbwgQEH7H8=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vAEmAXqgCWnbSGPahkDmzybvEMc=
+		x5mQV435kmIwB56Nyg3G4eZ45Go=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		s1nLzl8Sy9Y5M8adYswLCVeoDqo=
+		O+dWTIeRP2u1u3EW5GENtkKQHYU=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/EdcnpBQjLjOvF3BD13XScvQxXA=
+		Jzccuno0QvnoWV+apntAft1H8Po=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jSOIQYzSsm4WoK30cDfZxNUqvG4=
+		PGEOJegxI+ToL1RWt7wuYtNmob4=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/EdcnpBQjLjOvF3BD13XScvQxXA=
+		Jzccuno0QvnoWV+apntAft1H8Po=
 		</data>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WBUVAdtvKamA/kbA2eSQll2nKOk=
+		8uEh3g9q1i2g8yDohbvHkVzcpEc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -249,70 +249,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSRUrIkIt+xEnRrBkOaNXV0mCBF+HWqRJIM8OARTlTM=
+			NjZwSSrr1Si/yYF+iePNPFafFrPht2zdfrUOM1Tw8cI=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nt4NlDQoavE+Ef6IpC+FezDe/hBv9A86dB0nbzm+WdI=
+			cWGM9UZWISbf73F/WAT+em4ZmVhccniTtY3wuU4/zLU=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rr3BgOYydtb5H6fgiTN0RL+AbXmu9NqY8XwTAdFbvFY=
+			V9++1mdl7EZgPUOnUNuVaMyyjonpAF8dr+eNCOv3+hQ=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nt4NlDQoavE+Ef6IpC+FezDe/hBv9A86dB0nbzm+WdI=
+			cWGM9UZWISbf73F/WAT+em4ZmVhccniTtY3wuU4/zLU=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVoB7Ibh9NLyQJEnTRNzejcI3JCtZY4t3QE8qWUfO4E=
+			93b7NQvE+PZC0I7BxuxwAZ7bMJthUR0Wkn6C/O1J8ck=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSRUrIkIt+xEnRrBkOaNXV0mCBF+HWqRJIM8OARTlTM=
+			NjZwSSrr1Si/yYF+iePNPFafFrPht2zdfrUOM1Tw8cI=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qo3yXO2XE5BpRKpN9JZ9NSqaCxzDRnGvoLK1D9QaS+I=
+			IffnQ/Wje0i9sNixvGLzd9wG5yS6or3g9zVkl8RUbv8=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			If7lEW9PKZ6qaXUX1M7kV8zRmkVis7ySUXu4hdQyUSo=
+			J5zbP0s7fkooaWX53h7ss+YxLDBOxO2VCy0lrzRPIjc=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qo3yXO2XE5BpRKpN9JZ9NSqaCxzDRnGvoLK1D9QaS+I=
+			IffnQ/Wje0i9sNixvGLzd9wG5yS6or3g9zVkl8RUbv8=
 			</data>
 		</dict>
 		<key>Modules/SocialAuthFw.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xl1+pR9w+VGQAnNOwwVNF9cvTFZUvFzgyoH6r/8QPg8=
+			JsG7PaKT67E5U2YLzzfNXcwzHMYUDh+6jopUaNmw/Aw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

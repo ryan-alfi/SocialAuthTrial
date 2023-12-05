@@ -684,8 +684,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "SocialAuthFw",
-        "printedName": "SocialAuthFw",
+        "name": "SocialAuth",
+        "printedName": "SocialAuth",
         "children": [
           {
             "kind": "Var",
@@ -694,14 +694,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "SocialAuthFw",
-                "printedName": "SocialAuthFw.SocialAuthFw",
-                "usr": "s:12SocialAuthFwAAC"
+                "name": "SocialAuth",
+                "printedName": "SocialAuthFw.SocialAuth",
+                "usr": "s:12SocialAuthFw0aB0C"
               }
             ],
             "declKind": "Var",
-            "usr": "s:12SocialAuthFwAAC6sharedABvpZ",
-            "mangledName": "$s12SocialAuthFwAAC6sharedABvpZ",
+            "usr": "s:12SocialAuthFw0aB0C6sharedACvpZ",
+            "mangledName": "$s12SocialAuthFw0aB0C6sharedACvpZ",
             "moduleName": "SocialAuthFw",
             "static": true,
             "declAttributes": [
@@ -720,14 +720,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "SocialAuthFw",
-                    "printedName": "SocialAuthFw.SocialAuthFw",
-                    "usr": "s:12SocialAuthFwAAC"
+                    "name": "SocialAuth",
+                    "printedName": "SocialAuthFw.SocialAuth",
+                    "usr": "s:12SocialAuthFw0aB0C"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC6sharedABvgZ",
-                "mangledName": "$s12SocialAuthFwAAC6sharedABvgZ",
+                "usr": "s:12SocialAuthFw0aB0C6sharedACvgZ",
+                "mangledName": "$s12SocialAuthFw0aB0C6sharedACvgZ",
                 "moduleName": "SocialAuthFw",
                 "static": true,
                 "implicit": true,
@@ -750,8 +750,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvp",
-            "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvp",
+            "usr": "s:12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvp",
+            "mangledName": "$s12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvp",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "HasInitialValue",
@@ -783,8 +783,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvg",
-                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvg",
+                "usr": "s:12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvg",
+                "mangledName": "$s12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvg",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "get"
@@ -815,8 +815,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvs",
-                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvs",
+                "usr": "s:12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvs",
+                "mangledName": "$s12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvs",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "set"
@@ -833,8 +833,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvM",
-                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvM",
+                "usr": "s:12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvM",
+                "mangledName": "$s12SocialAuthFw0aB0C12authDelegateAA06VPAuthE0_pSgvM",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -854,8 +854,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12SocialAuthFwAAC8localizeSSvp",
-            "mangledName": "$s12SocialAuthFwAAC8localizeSSvp",
+            "usr": "s:12SocialAuthFw0aB0C8localizeSSvp",
+            "mangledName": "$s12SocialAuthFw0aB0C8localizeSSvp",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "HasInitialValue",
@@ -877,8 +877,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC8localizeSSvg",
-                "mangledName": "$s12SocialAuthFwAAC8localizeSSvg",
+                "usr": "s:12SocialAuthFw0aB0C8localizeSSvg",
+                "mangledName": "$s12SocialAuthFw0aB0C8localizeSSvg",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "get"
@@ -901,8 +901,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC8localizeSSvs",
-                "mangledName": "$s12SocialAuthFwAAC8localizeSSvs",
+                "usr": "s:12SocialAuthFw0aB0C8localizeSSvs",
+                "mangledName": "$s12SocialAuthFw0aB0C8localizeSSvs",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "set"
@@ -919,8 +919,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC8localizeSSvM",
-                "mangledName": "$s12SocialAuthFwAAC8localizeSSvM",
+                "usr": "s:12SocialAuthFw0aB0C8localizeSSvM",
+                "mangledName": "$s12SocialAuthFw0aB0C8localizeSSvM",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -948,8 +948,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12SocialAuthFwAAC3keySSSgvp",
-            "mangledName": "$s12SocialAuthFwAAC3keySSSgvp",
+            "usr": "s:12SocialAuthFw0aB0C3keySSSgvp",
+            "mangledName": "$s12SocialAuthFw0aB0C3keySSSgvp",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "HasInitialValue",
@@ -979,8 +979,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC3keySSSgvg",
-                "mangledName": "$s12SocialAuthFwAAC3keySSSgvg",
+                "usr": "s:12SocialAuthFw0aB0C3keySSSgvg",
+                "mangledName": "$s12SocialAuthFw0aB0C3keySSSgvg",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "get"
@@ -1011,8 +1011,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC3keySSSgvs",
-                "mangledName": "$s12SocialAuthFwAAC3keySSSgvs",
+                "usr": "s:12SocialAuthFw0aB0C3keySSSgvs",
+                "mangledName": "$s12SocialAuthFw0aB0C3keySSSgvs",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "set"
@@ -1029,8 +1029,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12SocialAuthFwAAC3keySSSgvM",
-                "mangledName": "$s12SocialAuthFwAAC3keySSSgvM",
+                "usr": "s:12SocialAuthFw0aB0C3keySSSgvM",
+                "mangledName": "$s12SocialAuthFw0aB0C3keySSSgvM",
                 "moduleName": "SocialAuthFw",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -1050,8 +1050,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC19loginViewControllerSo06UIViewF0CyF",
-            "mangledName": "$s12SocialAuthFwAAC19loginViewControllerSo06UIViewF0CyF",
+            "usr": "s:12SocialAuthFw0aB0C19loginViewControllerSo06UIViewF0CyF",
+            "mangledName": "$s12SocialAuthFw0aB0C19loginViewControllerSo06UIViewF0CyF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1084,8 +1084,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
-            "mangledName": "$s12SocialAuthFwAAC18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
+            "usr": "s:12SocialAuthFw0aB0C18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
+            "mangledName": "$s12SocialAuthFw0aB0C18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1126,8 +1126,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
-            "mangledName": "$s12SocialAuthFwAAC15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "usr": "s:12SocialAuthFw0aB0C15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "mangledName": "$s12SocialAuthFw0aB0C15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1148,8 +1148,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC22registerViewControllerSo06UIViewF0CyF",
-            "mangledName": "$s12SocialAuthFwAAC22registerViewControllerSo06UIViewF0CyF",
+            "usr": "s:12SocialAuthFw0aB0C22registerViewControllerSo06UIViewF0CyF",
+            "mangledName": "$s12SocialAuthFw0aB0C22registerViewControllerSo06UIViewF0CyF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1182,8 +1182,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
-            "mangledName": "$s12SocialAuthFwAAC21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
+            "usr": "s:12SocialAuthFw0aB0C21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
+            "mangledName": "$s12SocialAuthFw0aB0C21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1224,8 +1224,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
-            "mangledName": "$s12SocialAuthFwAAC18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "usr": "s:12SocialAuthFw0aB0C18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "mangledName": "$s12SocialAuthFw0aB0C18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1258,8 +1258,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
-            "mangledName": "$s12SocialAuthFwAAC24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
+            "usr": "s:12SocialAuthFw0aB0C24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
+            "mangledName": "$s12SocialAuthFw0aB0C24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1304,8 +1304,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
-            "mangledName": "$s12SocialAuthFwAAC23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
+            "usr": "s:12SocialAuthFw0aB0C23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
+            "mangledName": "$s12SocialAuthFw0aB0C23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1358,8 +1358,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
-            "mangledName": "$s12SocialAuthFwAAC20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
+            "usr": "s:12SocialAuthFw0aB0C20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
+            "mangledName": "$s12SocialAuthFw0aB0C20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1412,8 +1412,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
-            "mangledName": "$s12SocialAuthFwAAC11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
+            "usr": "s:12SocialAuthFw0aB0C11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
+            "mangledName": "$s12SocialAuthFw0aB0C11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1466,8 +1466,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SocialAuthFwAAC11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
-            "mangledName": "$s12SocialAuthFwAAC11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
+            "usr": "s:12SocialAuthFw0aB0C11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
+            "mangledName": "$s12SocialAuthFw0aB0C11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
             "moduleName": "SocialAuthFw",
             "declAttributes": [
               "AccessControl"
@@ -1477,8 +1477,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:12SocialAuthFwAAC",
-        "mangledName": "$s12SocialAuthFwAAC",
+        "usr": "s:12SocialAuthFw0aB0C",
+        "mangledName": "$s12SocialAuthFw0aB0C",
         "moduleName": "SocialAuthFw",
         "declAttributes": [
           "AccessControl"
@@ -5020,56 +5020,56 @@
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "StringLiteral",
-      "offset": 326,
+      "offset": 322,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 604,
+      "offset": 598,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 888,
+      "offset": 882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 1216,
+      "offset": 1210,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 1506,
+      "offset": 1500,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 1890,
+      "offset": 1884,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "BooleanLiteral",
-      "offset": 2261,
+      "offset": 2255,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
       "kind": "Dictionary",
-      "offset": 2822,
+      "offset": 2816,
       "length": 3,
       "value": "[]"
     },

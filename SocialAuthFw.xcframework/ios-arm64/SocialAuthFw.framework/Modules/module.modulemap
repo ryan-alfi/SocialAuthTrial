@@ -1,0 +1,11 @@
+framework module SocialAuthFw {
+  umbrella header "SocialAuthFw.h"
+
+  export *
+  module * { export * }
+}
+
+module SocialAuthFw.Swift {
+  header "SocialAuthFw-Swift.h"
+  requires objc
+}

@@ -1,0 +1,5791 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VPAuthProvider",
+        "printedName": "VPAuthProvider",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "apple",
+            "printedName": "apple",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SocialAuthFw.VPAuthProvider.Type) -> SocialAuthFw.VPAuthProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SocialAuthFw.VPAuthProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthProvider",
+                        "printedName": "SocialAuthFw.VPAuthProvider",
+                        "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO5appleyA2CmF",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO5appleyA2CmF",
+            "moduleName": "SocialAuthFw"
+          },
+          {
+            "kind": "Var",
+            "name": "google",
+            "printedName": "google",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SocialAuthFw.VPAuthProvider.Type) -> SocialAuthFw.VPAuthProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SocialAuthFw.VPAuthProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthProvider",
+                        "printedName": "SocialAuthFw.VPAuthProvider",
+                        "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO6googleyA2CmF",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO6googleyA2CmF",
+            "moduleName": "SocialAuthFw"
+          },
+          {
+            "kind": "Var",
+            "name": "facebook",
+            "printedName": "facebook",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SocialAuthFw.VPAuthProvider.Type) -> SocialAuthFw.VPAuthProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SocialAuthFw.VPAuthProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthProvider",
+                        "printedName": "SocialAuthFw.VPAuthProvider",
+                        "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO8facebookyA2CmF",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO8facebookyA2CmF",
+            "moduleName": "SocialAuthFw"
+          },
+          {
+            "kind": "Var",
+            "name": "email",
+            "printedName": "email",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SocialAuthFw.VPAuthProvider.Type) -> SocialAuthFw.VPAuthProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SocialAuthFw.VPAuthProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthProvider",
+                        "printedName": "SocialAuthFw.VPAuthProvider",
+                        "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO5emailyA2CmF",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO5emailyA2CmF",
+            "moduleName": "SocialAuthFw"
+          },
+          {
+            "kind": "Var",
+            "name": "phone",
+            "printedName": "phone",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SocialAuthFw.VPAuthProvider.Type) -> SocialAuthFw.VPAuthProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SocialAuthFw.VPAuthProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthProvider",
+                        "printedName": "SocialAuthFw.VPAuthProvider",
+                        "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO5phoneyA2CmF",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO5phoneyA2CmF",
+            "moduleName": "SocialAuthFw"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "SocialAuthFw.VPAuthProvider?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VPAuthProvider",
+                    "printedName": "SocialAuthFw.VPAuthProvider",
+                    "usr": "s:12SocialAuthFw14VPAuthProviderO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO8rawValueACSgSS_tcfc",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO8rawValueACSgSS_tcfc",
+            "moduleName": "SocialAuthFw",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12SocialAuthFw14VPAuthProviderO8rawValueSSvp",
+            "mangledName": "$s12SocialAuthFw14VPAuthProviderO8rawValueSSvp",
+            "moduleName": "SocialAuthFw",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFw14VPAuthProviderO8rawValueSSvg",
+                "mangledName": "$s12SocialAuthFw14VPAuthProviderO8rawValueSSvg",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:12SocialAuthFw14VPAuthProviderO",
+        "mangledName": "$s12SocialAuthFw14VPAuthProviderO",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AuthenticationServices",
+        "printedName": "AuthenticationServices",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleSignIn",
+        "printedName": "GoogleSignIn",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit.UIGeometry",
+        "printedName": "UIKit.UIGeometry",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKLoginKit",
+        "printedName": "FBSDKLoginKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKLoginKit",
+        "printedName": "FBSDKLoginKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocialAuthFw",
+        "printedName": "SocialAuthFw",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SocialAuthFw",
+                "printedName": "SocialAuthFw.SocialAuthFw",
+                "usr": "s:12SocialAuthFwAAC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12SocialAuthFwAAC6sharedABvpZ",
+            "mangledName": "$s12SocialAuthFwAAC6sharedABvpZ",
+            "moduleName": "SocialAuthFw",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocialAuthFw",
+                    "printedName": "SocialAuthFw.SocialAuthFw",
+                    "usr": "s:12SocialAuthFwAAC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC6sharedABvgZ",
+                "mangledName": "$s12SocialAuthFwAAC6sharedABvgZ",
+                "moduleName": "SocialAuthFw",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "authDelegate",
+            "printedName": "authDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "SocialAuthFw.VPAuthDelegate?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvp",
+            "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvp",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "SocialAuthFw.VPAuthDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthDelegate",
+                        "printedName": "SocialAuthFw.VPAuthDelegate",
+                        "usr": "s:12SocialAuthFw14VPAuthDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvg",
+                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvg",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "SocialAuthFw.VPAuthDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VPAuthDelegate",
+                        "printedName": "SocialAuthFw.VPAuthDelegate",
+                        "usr": "s:12SocialAuthFw14VPAuthDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvs",
+                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvs",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvM",
+                "mangledName": "$s12SocialAuthFwAAC12authDelegateAA06VPAuthE0_pSgvM",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "localize",
+            "printedName": "localize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12SocialAuthFwAAC8localizeSSvp",
+            "mangledName": "$s12SocialAuthFwAAC8localizeSSvp",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC8localizeSSvg",
+                "mangledName": "$s12SocialAuthFwAAC8localizeSSvg",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC8localizeSSvs",
+                "mangledName": "$s12SocialAuthFwAAC8localizeSSvs",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC8localizeSSvM",
+                "mangledName": "$s12SocialAuthFwAAC8localizeSSvM",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "key",
+            "printedName": "key",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12SocialAuthFwAAC3keySSSgvp",
+            "mangledName": "$s12SocialAuthFwAAC3keySSSgvp",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC3keySSSgvg",
+                "mangledName": "$s12SocialAuthFwAAC3keySSSgvg",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC3keySSSgvs",
+                "mangledName": "$s12SocialAuthFwAAC3keySSSgvs",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12SocialAuthFwAAC3keySSSgvM",
+                "mangledName": "$s12SocialAuthFwAAC3keySSSgvM",
+                "moduleName": "SocialAuthFw",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "loginViewController",
+            "printedName": "loginViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC19loginViewControllerSo06UIViewF0CyF",
+            "mangledName": "$s12SocialAuthFwAAC19loginViewControllerSo06UIViewF0CyF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentLoginScreen",
+            "printedName": "presentLoginScreen(_:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
+            "mangledName": "$s12SocialAuthFwAAC18presentLoginScreen_8animatedySo16UIViewControllerC_SbtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pushLoginScreen",
+            "printedName": "pushLoginScreen(_:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UINavigationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UINavigationController",
+                    "printedName": "UIKit.UINavigationController",
+                    "usr": "c:objc(cs)UINavigationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "mangledName": "$s12SocialAuthFwAAC15pushLoginScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "registerViewController",
+            "printedName": "registerViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC22registerViewControllerSo06UIViewF0CyF",
+            "mangledName": "$s12SocialAuthFwAAC22registerViewControllerSo06UIViewF0CyF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentRegisterScreen",
+            "printedName": "presentRegisterScreen(_:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
+            "mangledName": "$s12SocialAuthFwAAC21presentRegisterScreen_8animatedySo16UIViewControllerC_SbtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pushRegisterScreen",
+            "printedName": "pushRegisterScreen(_:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UINavigationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UINavigationController",
+                    "printedName": "UIKit.UINavigationController",
+                    "usr": "c:objc(cs)UINavigationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "mangledName": "$s12SocialAuthFwAAC18pushRegisterScreen_8animatedySo22UINavigationControllerCSg_SbtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "verifyLinkViewController",
+            "printedName": "verifyLinkViewController(sessionId:identity:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
+            "mangledName": "$s12SocialAuthFwAAC24verifyLinkViewController9sessionId8identitySo06UIViewG0CSS_SStF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentVerifyLinkScreen",
+            "printedName": "presentVerifyLinkScreen(_:animated:sessionId:identity:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
+            "mangledName": "$s12SocialAuthFwAAC23presentVerifyLinkScreen_8animated9sessionId8identityySo16UIViewControllerC_SbS2StF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pushVerifyLinkScreen",
+            "printedName": "pushVerifyLinkScreen(_:animated:sessionId:identity:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UINavigationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UINavigationController",
+                    "printedName": "UIKit.UINavigationController",
+                    "usr": "c:objc(cs)UINavigationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
+            "mangledName": "$s12SocialAuthFwAAC20pushVerifyLinkScreen_8animated9sessionId8identityySo22UINavigationControllerCSg_SbS2StF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "application",
+            "printedName": "application(_:didFinishLaunchingWithOptions:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIApplication",
+                "printedName": "UIKit.UIApplication",
+                "usr": "c:objc(cs)UIApplication"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LaunchOptionsKey",
+                        "printedName": "UIKit.UIApplication.LaunchOptionsKey",
+                        "usr": "c:@T@UIApplicationLaunchOptionsKey"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
+            "mangledName": "$s12SocialAuthFwAAC11application_29didFinishLaunchingWithOptionsySo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "application",
+            "printedName": "application(_:open:options:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIApplication",
+                "printedName": "UIKit.UIApplication",
+                "usr": "c:objc(cs)UIApplication"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[UIKit.UIApplication.OpenURLOptionsKey : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpenURLOptionsKey",
+                    "printedName": "UIKit.UIApplication.OpenURLOptionsKey",
+                    "usr": "c:@T@UIApplicationOpenURLOptionsKey"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFwAAC11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
+            "mangledName": "$s12SocialAuthFwAAC11application_4open7optionsSbSo13UIApplicationC_10Foundation3URLVSDySo0G17OpenURLOptionsKeyaypGtF",
+            "moduleName": "SocialAuthFw",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12SocialAuthFwAAC",
+        "mangledName": "$s12SocialAuthFwAAC",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VPAuthDelegate",
+        "printedName": "VPAuthDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "didAuthenticationSuccess",
+            "printedName": "didAuthenticationSuccess(token:provider:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VPAuthProvider",
+                "printedName": "SocialAuthFw.VPAuthProvider",
+                "usr": "s:12SocialAuthFw14VPAuthProviderO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFw14VPAuthDelegateP24didAuthenticationSuccess5token8providerySS_AA0D8ProviderOtF",
+            "mangledName": "$s12SocialAuthFw14VPAuthDelegateP24didAuthenticationSuccess5token8providerySS_AA0D8ProviderOtF",
+            "moduleName": "SocialAuthFw",
+            "genericSig": "<τ_0_0 where τ_0_0 : SocialAuthFw.VPAuthDelegate>",
+            "sugared_genericSig": "<Self where Self : SocialAuthFw.VPAuthDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didAuthenticationFailure",
+            "printedName": "didAuthenticationFailure(error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SocialAuthFw14VPAuthDelegateP24didAuthenticationFailure5errorys5Error_p_tF",
+            "mangledName": "$s12SocialAuthFw14VPAuthDelegateP24didAuthenticationFailure5errorys5Error_p_tF",
+            "moduleName": "SocialAuthFw",
+            "genericSig": "<τ_0_0 where τ_0_0 : SocialAuthFw.VPAuthDelegate>",
+            "sugared_genericSig": "<Self where Self : SocialAuthFw.VPAuthDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12SocialAuthFw14VPAuthDelegateP",
+        "mangledName": "$s12SocialAuthFw14VPAuthDelegateP",
+        "moduleName": "SocialAuthFw",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SocialAuthFw",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NSObject",
+        "printedName": "NSObject",
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSObject",
+        "moduleName": "ObjectiveC",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "NSObject",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CGPoint",
+        "printedName": "CGPoint",
+        "declKind": "Struct",
+        "usr": "c:@S@CGPoint",
+        "moduleName": "CoreFoundation",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CGRect",
+        "printedName": "CGRect",
+        "declKind": "Struct",
+        "usr": "c:@S@CGRect",
+        "moduleName": "CoreFoundation",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CGSize",
+        "printedName": "CGSize",
+        "declKind": "Struct",
+        "usr": "c:@S@CGSize",
+        "moduleName": "CoreFoundation",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CGVector",
+        "printedName": "CGVector",
+        "declKind": "Struct",
+        "usr": "c:@S@CGVector",
+        "moduleName": "CoreFoundation",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Array",
+        "printedName": "Array",
+        "declKind": "Struct",
+        "usr": "s:Sa",
+        "mangledName": "$sSa",
+        "moduleName": "Swift",
+        "genericSig": "<τ_0_0>",
+        "sugared_genericSig": "<Element>",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_DestructorSafeContainer",
+            "printedName": "_DestructorSafeContainer",
+            "usr": "s:s24_DestructorSafeContainerP",
+            "mangledName": "$ss24_DestructorSafeContainerP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ArrayProtocol",
+            "printedName": "_ArrayProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Buffer",
+                "printedName": "_Buffer",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "_ArrayBuffer",
+                    "printedName": "Swift._ArrayBuffer<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s12_ArrayBufferV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s14_ArrayProtocolP",
+            "mangledName": "$ss14_ArrayProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RandomAccessCollection",
+            "printedName": "RandomAccessCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sk",
+            "mangledName": "$sSk"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableCollection",
+            "printedName": "MutableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SM",
+            "mangledName": "$sSM"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BidirectionalCollection",
+            "printedName": "BidirectionalCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SK",
+            "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndexingIterator",
+                    "printedName": "Swift.IndexingIterator<[τ_0_0]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[τ_0_0]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s16IndexingIteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndexingIterator",
+                    "printedName": "Swift.IndexingIterator<[τ_0_0]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[τ_0_0]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s16IndexingIteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasContiguousBytes",
+            "printedName": "_HasContiguousBytes",
+            "usr": "s:s19_HasContiguousBytesP",
+            "mangledName": "$ss19_HasContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DataProtocol",
+            "printedName": "DataProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Regions",
+                "printedName": "Regions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CollectionOfOne",
+                    "printedName": "Swift.CollectionOfOne<[Swift.UInt8]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.UInt8]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UInt8",
+                            "printedName": "Swift.UInt8",
+                            "usr": "s:s5UInt8V"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s15CollectionOfOneV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation12DataProtocolP",
+            "mangledName": "$s10Foundation12DataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableDataProtocol",
+            "printedName": "MutableDataProtocol",
+            "usr": "s:10Foundation19MutableDataProtocolP",
+            "mangledName": "$s10Foundation19MutableDataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EncodableWithConfiguration",
+            "printedName": "EncodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "EncodingConfiguration",
+                "printedName": "EncodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.EncodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26EncodableWithConfigurationP",
+            "mangledName": "$s10Foundation26EncodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableWithConfiguration",
+            "printedName": "DecodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DecodingConfiguration",
+                "printedName": "DecodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.DecodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26DecodableWithConfigurationP",
+            "mangledName": "$s10Foundation26DecodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSArray",
+                    "printedName": "Foundation.NSArray",
+                    "usr": "c:objc(cs)NSArray"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ContiguousBytes",
+            "printedName": "ContiguousBytes",
+            "usr": "s:10Foundation15ContiguousBytesP",
+            "mangledName": "$s10Foundation15ContiguousBytesP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Dictionary",
+        "printedName": "Dictionary",
+        "declKind": "Struct",
+        "usr": "s:SD",
+        "mangledName": "$sSD",
+        "moduleName": "Swift",
+        "genericSig": "<τ_0_0, τ_0_1 where τ_0_0 : Swift.Hashable>",
+        "sugared_genericSig": "<Key, Value where Key : Swift.Hashable>",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(key: τ_0_0, value: τ_0_1)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.Dictionary<τ_0_0, τ_0_1>.Iterator",
+                    "usr": "s:SD8IteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(key: τ_0_0, value: τ_0_1)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.Dictionary<τ_0_0, τ_0_1>.Index",
+                    "usr": "s:SD5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.Dictionary<τ_0_0, τ_0_1>.Iterator",
+                    "usr": "s:SD8IteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Slice",
+                    "printedName": "Swift.Slice<[τ_0_0 : τ_0_1]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[τ_0_0 : τ_0_1]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_1"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:s5SliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<[τ_0_0 : τ_0_1]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[τ_0_0 : τ_0_1]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_1"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByDictionaryLiteral",
+            "printedName": "ExpressibleByDictionaryLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Key",
+                "printedName": "Key",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Value",
+                "printedName": "Value",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_1"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s30ExpressibleByDictionaryLiteralP",
+            "mangledName": "$ss30ExpressibleByDictionaryLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSDictionary",
+                    "printedName": "Foundation.NSDictionary",
+                    "usr": "c:objc(cs)NSDictionary"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Set",
+        "printedName": "Set",
+        "declKind": "Struct",
+        "usr": "s:Sh",
+        "mangledName": "$sSh",
+        "moduleName": "Swift",
+        "genericSig": "<τ_0_0 where τ_0_0 : Swift.Hashable>",
+        "sugared_genericSig": "<Element where Element : Swift.Hashable>",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.Set<τ_0_0>.Iterator",
+                    "usr": "s:Sh8IteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.Set<τ_0_0>.Index",
+                    "usr": "s:Sh5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.Set<τ_0_0>.Iterator",
+                    "usr": "s:Sh8IteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Slice",
+                    "printedName": "Swift.Slice<Swift.Set<τ_0_0>>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Set",
+                        "printedName": "Swift.Set<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sh"
+                      }
+                    ],
+                    "usr": "s:s5SliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.Set<τ_0_0>>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Set",
+                        "printedName": "Swift.Set<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sh"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SetAlgebra",
+            "printedName": "SetAlgebra",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s10SetAlgebraP",
+            "mangledName": "$ss10SetAlgebraP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSSet",
+                    "printedName": "Foundation.NSSet",
+                    "usr": "c:objc(cs)NSSet"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIEdgeInsets",
+        "printedName": "UIEdgeInsets",
+        "declKind": "Struct",
+        "usr": "c:@S@UIEdgeInsets",
+        "moduleName": "UIKit",
+        "declAttributes": [
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIOffset",
+        "printedName": "UIOffset",
+        "declKind": "Struct",
+        "usr": "c:@S@UIOffset",
+        "moduleName": "UIKit",
+        "declAttributes": [
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIRectEdge",
+        "printedName": "UIRectEdge",
+        "declKind": "Struct",
+        "usr": "c:@E@UIRectEdge",
+        "moduleName": "UIKit",
+        "intro_iOS": "7.0",
+        "declAttributes": [
+          "Available",
+          "SynthesizedProtocol",
+          "SynthesizedProtocol",
+          "Sendable",
+          "NonSendable"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "OptionSet",
+            "printedName": "OptionSet",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIRectEdge",
+                    "printedName": "UIKit.UIRectEdge",
+                    "usr": "c:@E@UIRectEdge"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s9OptionSetP",
+            "mangledName": "$ss9OptionSetP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt",
+                    "printedName": "Swift.UInt",
+                    "usr": "s:Su"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SetAlgebra",
+            "printedName": "SetAlgebra",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIRectEdge",
+                    "printedName": "UIKit.UIRectEdge",
+                    "usr": "c:@E@UIRectEdge"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s10SetAlgebraP",
+            "mangledName": "$ss10SetAlgebraP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIRectEdge",
+                    "printedName": "UIKit.UIRectEdge",
+                    "usr": "c:@E@UIRectEdge"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 158,
+      "length": 2,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 494,
+      "length": 15,
+      "value": "\"message_title\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 18,
+      "value": "\"message_severity\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 494,
+      "length": 15,
+      "value": "\"message_title\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 18,
+      "value": "\"message_severity\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 15,
+      "value": "\"err_geo_block\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 22,
+      "value": "\"err_email_unverified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 716,
+      "length": 22,
+      "value": "\"err_phone_unverified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 769,
+      "length": 22,
+      "value": "\"err_email_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 822,
+      "length": 23,
+      "value": "\"err_email_or_password\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
+      "length": 24,
+      "value": "\"err_email_unregistered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 935,
+      "length": 24,
+      "value": "\"err_phone_unregistered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 990,
+      "length": 22,
+      "value": "\"err_phone_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1061,
+      "length": 43,
+      "value": "\"err_email_registered_by_external_provider\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1132,
+      "length": 18,
+      "value": "\"already_verified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1176,
+      "length": 16,
+      "value": "\"not_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1218,
+      "length": 17,
+      "value": "\"err_invalid_otp\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1261,
+      "length": 17,
+      "value": "\"err_expired_otp\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 22,
+      "value": "\"err_otp_waiting_time\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1358,
+      "length": 19,
+      "value": "\"err_quota_exceded\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1407,
+      "length": 21,
+      "value": "\"err_internal_server\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 15,
+      "value": "\"err_geo_block\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 22,
+      "value": "\"err_email_unverified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 716,
+      "length": 22,
+      "value": "\"err_phone_unverified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 769,
+      "length": 22,
+      "value": "\"err_email_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 822,
+      "length": 23,
+      "value": "\"err_email_or_password\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
+      "length": 24,
+      "value": "\"err_email_unregistered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 935,
+      "length": 24,
+      "value": "\"err_phone_unregistered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 990,
+      "length": 22,
+      "value": "\"err_phone_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1061,
+      "length": 43,
+      "value": "\"err_email_registered_by_external_provider\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1132,
+      "length": 18,
+      "value": "\"already_verified\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1176,
+      "length": 16,
+      "value": "\"not_registered\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1218,
+      "length": 17,
+      "value": "\"err_invalid_otp\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1261,
+      "length": 17,
+      "value": "\"err_expired_otp\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 22,
+      "value": "\"err_otp_waiting_time\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1358,
+      "length": 19,
+      "value": "\"err_quota_exceded\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ErrorModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1407,
+      "length": 21,
+      "value": "\"err_internal_server\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 431,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 570,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 454,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 599,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 611,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 13,
+      "value": "\"ic_apple_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 583,
+      "length": 13,
+      "value": "\"ic_facebook\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 637,
+      "length": 11,
+      "value": "\"ic_google\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 692,
+      "length": 15,
+      "value": "\"ic_arrow_left\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 754,
+      "length": 18,
+      "value": "\"ic_visibility_on\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 820,
+      "length": 19,
+      "value": "\"ic_visibility_off\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 883,
+      "length": 15,
+      "value": "\"ic_arrow_down\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 939,
+      "length": 12,
+      "value": "\"ic_flag_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 992,
+      "length": 12,
+      "value": "\"ic_flag_my\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1044,
+      "length": 10,
+      "value": "\"ic_close\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1095,
+      "length": 11,
+      "value": "\"ic_search\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 17,
+      "value": "\"ic_internet_off\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1217,
+      "length": 13,
+      "value": "\"ill_success\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ImageConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1277,
+      "length": 18,
+      "value": "\"ill_server_error\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 628,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 845,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 958,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "StringLiteral",
+      "offset": 1066,
+      "length": 4,
+      "value": "\"  \""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1389,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1465,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1655,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1710,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "StringLiteral",
+      "offset": 2397,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2498,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/TextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3112,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/NetworkConfig.swift",
+      "kind": "Dictionary",
+      "offset": 362,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1194,
+      "length": 17,
+      "value": "\"Create Password\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1298,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1370,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1392,
+      "length": 99,
+      "value": "\"Your password must be at least 8 characters with a mix of uppercase-lowercase letters and numbers\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1551,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1700,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1914,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/Subviews\/RegisterFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2131,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 330,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 369,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 448,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 474,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 638,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 741,
+      "length": 6,
+      "value": "\"Next\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 867,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 974,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 996,
+      "length": 59,
+      "value": "\"We will send the verification code to your email address.\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Forgot Password\/ForgotPasswordViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 136,
+      "length": 28,
+      "value": "\"SocialAuthFw.ForgotPasswordViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/Subviews\/CreateNewPasswordFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/Subviews\/CreateNewPasswordFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 417,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/Subviews\/CreateNewPasswordFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 99,
+      "value": "\"Your password must be at least 8 characters with a mix of uppercase-lowercase letters and numbers\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountDownLabel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 371,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountDownLabel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 418,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountDownLabel.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountDownLabel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1001,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountDownLabel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1069,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 395,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 405,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 417,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 428,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 480,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 534,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 639,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 817,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 857,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1035,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1075,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1253,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1668,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1778,
+      "length": 2,
+      "value": "43"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PopUpViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 127,
+      "length": 19,
+      "value": "\"SocialAuthFw.PopUpViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PhoneTextFieldLeftView.swift",
+      "kind": "StringLiteral",
+      "offset": 288,
+      "length": 5,
+      "value": "\"+62\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PhoneTextFieldLeftView.swift",
+      "kind": "StringLiteral",
+      "offset": 301,
+      "length": 11,
+      "value": "\"Indonesia\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PhoneTextFieldLeftView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 343,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PhoneTextFieldLeftView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 539,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/PhoneTextFieldLeftView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 595,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Base\/BaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1123,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Base\/BaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5230,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Base\/BaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5242,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 154,
+      "length": 7,
+      "value": "\"Apple\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 8,
+      "value": "\"Google\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 10,
+      "value": "\"Facebook\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 237,
+      "length": 7,
+      "value": "\"Email\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 262,
+      "length": 7,
+      "value": "\"Phone\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 154,
+      "length": 7,
+      "value": "\"Apple\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 8,
+      "value": "\"Google\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 10,
+      "value": "\"Facebook\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 237,
+      "length": 7,
+      "value": "\"Email\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Bundles\/VPAuthProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 262,
+      "length": 7,
+      "value": "\"Phone\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 485,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 525,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 703,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 743,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 921,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1155,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1210,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1244,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1391,
+      "length": 2,
+      "value": "43"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1600,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1710,
+      "length": 2,
+      "value": "43"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/Subviews\/LoginFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1324,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/Subviews\/LoginFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1365,
+      "length": 18,
+      "value": "\"Forgot Password?\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/Subviews\/LoginFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/Subviews\/LoginFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1928,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/Subviews\/LoginFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2150,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 375,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 454,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 725,
+      "length": 15,
+      "value": "\"Save Password\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Create New Password\/CreateNewPasswordViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 139,
+      "length": 31,
+      "value": "\"SocialAuthFw.CreateNewPasswordViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Verify Link\/VerifyLinkViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 132,
+      "length": 24,
+      "value": "\"SocialAuthFw.VerifyLinkViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 318,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 357,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 436,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 462,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 641,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 765,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 787,
+      "length": 26,
+      "value": "\"Already have an account?\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1089,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1130,
+      "length": 7,
+      "value": "\"Login\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1336,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1443,
+      "length": 10,
+      "value": "\"Register\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Register\/RegisterViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 130,
+      "length": 22,
+      "value": "\"SocialAuthFw.RegisterViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/NextActionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 11,
+      "value": "\"idp_login\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/NextActionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 11,
+      "value": "\"idp_login\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/NextActionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 12,
+      "value": "\"next_state\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/NextActionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 12,
+      "value": "\"next_state\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 152,
+      "length": 8,
+      "value": "\"apikey\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 185,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 226,
+      "length": 17,
+      "value": "\"Accept-Language\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 272,
+      "length": 12,
+      "value": "\"AppVersion\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 316,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 359,
+      "length": 11,
+      "value": "\"BuildCode\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 400,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 11,
+      "value": "\"device-id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 475,
+      "length": 6,
+      "value": "\"lang\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 509,
+      "length": 11,
+      "value": "\"OSVersion\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 547,
+      "length": 10,
+      "value": "\"Platform\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 13,
+      "value": "\"X-Device-Id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 15,
+      "value": "\"X-Device-Name\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 674,
+      "length": 16,
+      "value": "\"X-Device-Model\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 739,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 764,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 815,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 739,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 764,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 815,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2825,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2863,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 2943,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 2992,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 3037,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3097,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3137,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 3221,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 3272,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Network\/Endpoint.swift",
+      "kind": "Dictionary",
+      "offset": 3319,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/ToastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 267,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/ToastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 348,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/ToastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1220,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/ToastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1232,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 4,
+      "value": "\"en\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 604,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 888,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1216,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1506,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1890,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2261,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/SocialAuthFw.swift",
+      "kind": "Dictionary",
+      "offset": 2822,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ResponseType.swift",
+      "kind": "StringLiteral",
+      "offset": 142,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/ResponseType.swift",
+      "kind": "StringLiteral",
+      "offset": 142,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/PasswordRecoveryOtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 304,
+      "length": 12,
+      "value": "\"session_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/PasswordRecoveryOtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 350,
+      "length": 22,
+      "value": "\"next_retry_in_second\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/PasswordRecoveryOtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 304,
+      "length": 12,
+      "value": "\"session_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/PasswordRecoveryOtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 350,
+      "length": 22,
+      "value": "\"next_retry_in_second\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 16,
+      "value": "\"visionplus_dev\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 262,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/DI\/NetworkInjectionKey.swift",
+      "kind": "StringLiteral",
+      "offset": 514,
+      "length": 36,
+      "value": "\"https:\/\/temp-bss-stg.visionplus.id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/DI\/NetworkInjectionKey.swift",
+      "kind": "StringLiteral",
+      "offset": 608,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/CountDownTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 307,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/CountDownTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 353,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/CountDownTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 403,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/CountDownTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 917,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "StringLiteral",
+      "offset": 462,
+      "length": 11,
+      "value": "\"Enter OTP\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 542,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 12,
+      "value": "\"Resend in \""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 786,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 910,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "StringLiteral",
+      "offset": 1003,
+      "length": 10,
+      "value": "\"Send OTP\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1369,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/OTPView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1445,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1877,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3868,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4435,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4998,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 406,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 445,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 524,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 550,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 729,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 859,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 881,
+      "length": 26,
+      "value": "\"Don’t have an account?\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1189,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
+      "length": 10,
+      "value": "\"Register\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1433,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1537,
+      "length": 7,
+      "value": "\"Login\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Login\/LoginViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 127,
+      "length": 19,
+      "value": "\"SocialAuthFw.LoginViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 458,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "StringLiteral",
+      "offset": 546,
+      "length": 26,
+      "value": "\"    or continue with    \""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 649,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "StringLiteral",
+      "offset": 1028,
+      "length": 10,
+      "value": "\"APPLE ID\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1077,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "StringLiteral",
+      "offset": 1399,
+      "length": 8,
+      "value": "\"GOOGLE\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1446,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "StringLiteral",
+      "offset": 1776,
+      "length": 10,
+      "value": "\"FACEBOOK\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/SocialLoginView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1825,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUINavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 230,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUINavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 249,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 174,
+      "length": 9,
+      "value": "\"#141414\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 224,
+      "length": 9,
+      "value": "\"#2E2E2E\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 274,
+      "length": 9,
+      "value": "\"#202020\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 9,
+      "value": "\"#1F1F1F\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 373,
+      "length": 9,
+      "value": "\"#3A3D3D\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 9,
+      "value": "\"#606666\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 471,
+      "length": 9,
+      "value": "\"#919999\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 9,
+      "value": "\"#7D7D7D\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 572,
+      "length": 9,
+      "value": "\"#07E3D0\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 9,
+      "value": "\"#073634\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 674,
+      "length": 9,
+      "value": "\"#FF7479\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 577,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "Array",
+      "offset": 626,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 693,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 767,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "FloatLiteral",
+      "offset": 777,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "Array",
+      "offset": 867,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1218,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1311,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Vendors\/OTPTextField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4045,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/RegistrationModel.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 12,
+      "value": "\"next_state\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/RegistrationModel.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 12,
+      "value": "\"next_state\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Utils\/Extensions\/ExtensionUIColor.swift",
+      "kind": "FloatLiteral",
+      "offset": 188,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Verify Link\/VerifyLinkViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 113,
+      "length": 19,
+      "value": "\"SocialAuthFw.VerifyLinkViewModel\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 475,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 780,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 828,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 867,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1101,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1159,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1256,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1297,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1528,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Screens\/Presented Dialog\/PresentedDialogViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 29,
+      "value": "\"SocialAuthFw.PresentedDialogViewController\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/FormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 623,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/FormView.swift",
+      "kind": "StringLiteral",
+      "offset": 750,
+      "length": 14,
+      "value": "\"Phone Number\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/FormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 981,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/FormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1108,
+      "length": 7,
+      "value": "\"Email\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/OtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 16,
+      "value": "\"otp_session_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/OtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 328,
+      "length": 22,
+      "value": "\"next_retry_in_second\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/OtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 16,
+      "value": "\"otp_session_id\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Models\/Response Models\/OtpResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 328,
+      "length": 22,
+      "value": "\"next_retry_in_second\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 497,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 36,
+      "value": "\"Enter country name or country code\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 14,
+      "value": "\"Country Code\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "StringLiteral",
+      "offset": 830,
+      "length": 21,
+      "value": "\"CountryCodeItemCell\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1001,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1157,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1200,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "StringLiteral",
+      "offset": 1254,
+      "length": 24,
+      "value": "\"No country code found.\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "Array",
+      "offset": 1326,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "StringLiteral",
+      "offset": 1470,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ryanalfi\/Files\/MNC\/v+ stable\/SocialAuthFw\/SocialAuthFw\/Components\/CountryCodeListView.swift",
+      "kind": "Array",
+      "offset": 1657,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}

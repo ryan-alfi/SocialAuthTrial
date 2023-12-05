@@ -28,7 +28,7 @@ let package = Package(
             path: "SocialAuthFw.xcframework"
         ),
         .target(
-            name: "SocialAuthLib",
+            name: "SocialAuthTrial",
             dependencies: [
                 .product(name: "FacebookLogin", package: "facebook-ios-sdk"),
                 .product(name: "GoogleSignIn", package: "GoogleSignIn-iOS"),
